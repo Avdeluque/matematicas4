@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>FF80C0</corbanda>
+        <cornavega>FF8080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Matematicas</titulo>
+        <autor>Angie De Luque</autor>
+        <logo>pngegg_(2).png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="applause-alks-ses-efekti-125030.mp3" modo="1" >Felicidades!!!</correcto>
+        <incorrecto son="" modo="1" >Sigue Intentando!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-8">Licenciatura_en_Matem_aticas.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <imaxe>pngegg.png</imaxe>
+              <filas>2</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <texto posx="183" posy="10" ancho="306" largo="292"><![CDATA[<font size="12"><center><h3>Teorema de pitagoras</H3>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/eTEBvBIz8Ok?si=sKLMYvFieKHmd3QV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br></center></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <imaxe>pitagoras.jpg</imaxe>
+              <texto>Aplica la formula del Teorema de Pitagoras y encuentra el lado restante</texto>
+              <resp texto="9" valor="0">Respuesta 9</resp>
+              <resp texto="10" valor="1">Respuesta 10</resp>
+              <resp texto="7" valor="0">Respuesta 7</resp>
+              <resp texto="15,12" valor="0">Respuesta 15,12</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+            <nonpasar>1</nonpasar>
+              <imaxe>pngegg_(1).png</imaxe>
+              <texto><![CDATA[Encuentra el lado restante ]]></texto>
+              <resp texto="">cinco</resp>
+              <modo>0</modo>
+              <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
